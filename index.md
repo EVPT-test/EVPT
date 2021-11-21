@@ -17,24 +17,29 @@ qui propose des créneaux ouverts à tous sur la rivière artificielle à Cergy 
 Actualités
 --------------------------------------------------------------------------------
 
-  - *29 Octobre 2021*
+  - 📅 *Vendredi 29 Octobre 2021*
 
     Bonjour,
 
     Si vous avez la pagaie qui vous démange, EVPT vous propose de se retrouver 
-    pour la dernière de la saison 📅 **dimanche 07 novembre 2021** !
-
+    pour la dernière de la saison ! 
     
 
-    PASS SANITAIRE OBLIGATOIRE pour pouvoir naviguer !
+    | 📅 Dimanche 07 novembre 2021 | Volume d'eau                              |
+    | ---------------------------- | ----------------------------------------- |
+    | 🕐 11h-12h                   | 🌊🌊 2 pompes                             |
+    | 🕐 12h-13h                   | 🌊🌊🌊 3 pompes                           |
 
-    Créneau d’ EVPT à Cergy ( Dimanche 07 Novembre de 11h00 à 13h00 2/3 pompes)
+    Inscription (obligatoire):
 
-    Pour participer à ses créneaux :
-    INSCRIPTION AU GOOGLE FORM POUR CE CRENEAU :
+      - 📝 [Formulaire inscription EVPT 07-11-2021](https://docs.google.com/forms/d/e/1FAIpQLScwOe-cKrpR2wKV_Ga_XzVvaTRI-TSNRrZYFiQvJ2fFs3-6vg/viewform)
 
-    https://docs.google.com/.../1FAIpQLScwOe.../viewform
+    Reportez-vous aux [conditions générales](#conditions) pour plus de détails 
+    (en particulier, le pass sanitaire est nécessaire pour participer).
+    
 
+
+# Conditions générales {#conditions}
 --------------------------------------------------------------------------------
 
 Nos créneaux sont ouverts à tous ceux qui aiment naviguer, dès lors que vous êtes 
