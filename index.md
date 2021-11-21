@@ -17,6 +17,43 @@ qui propose des créneaux ouverts à tous sur la rivière artificielle à Cergy 
 
 --------------------------------------------------------------------------------
 
+Nos créneaux sont ouverts à tous ceux qui aiment naviguer, dès lors que vous êtes 
+autonome ou bien encadré.
+
+Les conditions pour participer à ses créneaux sont : 
+
+  - Etre licencié FFCK ou pour les non licenciés, prendre un pass tempo  auprès 
+    d'un membre de EVPT  le jour même,
+
+   - S'inscrire individuellement à l'aide ce formulaire. 
+     Vous recevrez une confirmation par email,
+
+   - se présenter le jour même pour payer sa participation au créneau.
+
+Les personnes non inscrites au créneau pourront se voir refuser l'accès à la  rivière. 
+
+### Tarifs
+
+Tarif des créneaux par participant  est  :
+5 euros  de L’heure pour le 2 pompes 
+7 euros de L’heure  pour le 3 pompes
+Pass tempo: + 2 euros pour la session
+Ce tarif inclut l’accès à la base de Cergy. 
+
+Bien que nous acceptons différents types d’embarcations, notre pratique n'est pas 'Slalom', nous ne montons pas de portes.
+
+### 😷 Covid-19
+
+⚠️ **Un pass sanitaire est nécessaire pour participer aux sessions EVPT**
+
+Il devra être présenté lors de l'accès à la rivière artificielle
+(et non sur le parking ou à l'entrée de l'île de loisirs).
+
+Plus de détails ici: <https://cergy-pontoise.iledeloisirs.fr/covid-19/>
+
+
+--------------------------------------------------------------------------------
+
 **21 septembre 2021.**
 
 Bonjour à tous,
