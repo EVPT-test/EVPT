@@ -71,7 +71,7 @@ Bien que nous acceptons différents types d’embarcations, notre pratique n'est
 
 Pour accéder à la rivière artificielle :
 
- 1. Rendez-vous à l'[île de loisirs de Cergy Pontoise](https://goo.gl/maps/2vA5fz18Uch7Sh4a8) 
+ 1. Rendez-vous à l'[île de loisirs de Cergy Pontoise 📍](https://goo.gl/maps/2vA5fz18Uch7Sh4a8) 
 
     > Par la route, de Paris : prendre l’autoroute A15, sortie n°9 direction Cergy, 
     > puis suivre le fléchage « les Étangs de Cergy-Neuville ». 
@@ -85,12 +85,12 @@ Pour accéder à la rivière artificielle :
     >    Longitude : 2.052319049835205
     >
     > Source: <https://cergy-pontoise.iledeloisirs.fr/venir-a-lile-de-loisirs/>
+    > 
+    > <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2616.012002350411!2d2.0456262184008733!3d49.02937874275993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6f4ce63687f4b%3A0x6d1542cf4d977ab5!2sRafting%20%C3%8Ele%20de%20Loisir%20Cergy!5e0!3m2!1sen!2sfr!4v1637503170198!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2616.012002350411!2d2.0456262184008733!3d49.02937874275993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6f4ce63687f4b%3A0x6d1542cf4d977ab5!2sRafting%20%C3%8Ele%20de%20Loisir%20Cergy!5e0!3m2!1sen!2sfr!4v1637503170198!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
- 2. Puis dirigez-vous vers le parking P3 (à droite au 1er rond-point) ou vous
-    pourrez stationner. Puis embarquez sur l'étang de la folie et rendez-vous
-    à [📍 la rivière artificielle](https://goo.gl/maps/kxDHpmThyGNV8AQd7).
+ 2. Dirigez-vous ensuite vers le parking P3 (à droite au 1er rond-point) où vous
+    pourrez stationner. Puis embarquez sur l'étang de la folie et traversez vers
+    [la rivière artificielle📍](https://goo.gl/maps/kxDHpmThyGNV8AQd7).
 
 
 
