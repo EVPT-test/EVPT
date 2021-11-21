@@ -2,9 +2,6 @@
 title: Eaux Vives Pour Tous 
 ---
 
-Bonjour EVPT !
-================================================================================
-
 ℹ️ EVPT est une section liée au club de Canoë-Kayak de [la MJC de Sartrouville](#MJC),
 qui propose des créneaux ouverts à tous sur la rivière artificielle à Cergy (95).
 
@@ -13,7 +10,30 @@ qui propose des créneaux ouverts à tous sur la rivière artificielle à Cergy 
 
   - 📍 [Rivière artificielle de Cergy](https://goo.gl/maps/v9w4PAZAUJnWWkSY8)
 
-  - 📧 Contact : [`evpt@mjcsartrouville.asso.fr`](mailto:evpt@mjcsartrouville.asso.fr)
+  - 📧 [`evpt@mjcsartrouville.asso.fr`](mailto:evpt@mjcsartrouville.asso.fr)
+
+  - Facebook: <https://www.facebook.com/EVPTOUS>
+
+Actualités
+--------------------------------------------------------------------------------
+
+  - *29 Octobre 2021*
+
+    Bonjour,
+
+    Si vous avez la pagaie qui vous démange, EVPT vous propose de se retrouver 
+    pour la dernière de la saison 📅 **dimanche 07 novembre 2021** !
+
+    
+
+    PASS SANITAIRE OBLIGATOIRE pour pouvoir naviguer !
+
+    Créneau d’ EVPT à Cergy ( Dimanche 07 Novembre de 11h00 à 13h00 2/3 pompes)
+
+    Pour participer à ses créneaux :
+    INSCRIPTION AU GOOGLE FORM POUR CE CRENEAU :
+
+    https://docs.google.com/.../1FAIpQLScwOe.../viewform
 
 --------------------------------------------------------------------------------
 
@@ -22,8 +42,8 @@ autonome ou bien encadré.
 
 Les conditions pour participer à ses créneaux sont : 
 
-  - Etre licencié FFCK ou pour les non licenciés, prendre un pass tempo  auprès 
-    d'un membre de EVPT  le jour même,
+  - Etre licencié FFCK ou pour les non licenciés, prendre un pass tempo auprès 
+    d'un membre de EVPT le jour même,
 
    - S'inscrire individuellement à l'aide ce formulaire. 
      Vous recevrez une confirmation par email,
