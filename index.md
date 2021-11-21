@@ -76,7 +76,8 @@ malgré la multiplicités des pratiques :
   - Nous ne mettons pas en place de portes de slalom sur le parcours.
 
   - Le pratiquant déjà engagé dans une action est toujours prioritaire ; 
-    dans le doute, arrêtez-vous pour évitez les collisions et communiquez !
+    soyez vigilants et dans le doute, arrêtez-vous pour évitez les collisions. 
+    N'hésitez pas à communiquer !
 
   - Les pratiquants non autonomes devront être encadrés.
 
