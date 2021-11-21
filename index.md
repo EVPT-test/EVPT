@@ -8,6 +8,8 @@ Bonjour EVPT !
 ℹ️ EVPT est une section liée au club de Canoë-Kayak de [la MJC de Sartrouville](#MJC),
 qui propose des créneaux ouverts à tous sur la rivière artificielle à Cergy (95).
 
+📧 [`evpt@mjcsartrouville.asso.fr`](mailto:evpt@mjcsartrouville.asso.fr)
+
 Images
 --------------------------------------------------------------------------------
 
