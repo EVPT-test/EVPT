@@ -2,8 +2,7 @@
 title: Eaux Vives Pour Tous 
 ---
 
-
-A Propos
+ℹ️ A Propos
 --------------------------------------------------------------------------------
 
 L'EVPT (Eaux Vives Pour Tous) est une section associée au club de Canoë-Kayak 
