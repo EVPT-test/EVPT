@@ -2,7 +2,7 @@
 title: Eaux Vives Pour Tous 
 ---
 
-ℹ️ A Propos
+ℹ️ A propos
 --------------------------------------------------------------------------------
 
 L'EVPT (Eaux Vives Pour Tous) est une section associée au club de Canoë-Kayak 
@@ -79,7 +79,7 @@ La participation au créneau est calculée comme suit :
 
 Ce tarif inclut l’accès à la base de Cergy. 
 
-### 🪖 Loisirs & Sécurité
+### 🪖 Sécurité & loisirs
 
 Pour que les sessions se déroulent dans la bonne humeur (et sans bobo 🤕)
 malgré la multiplicités des pratiques :
