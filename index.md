@@ -14,7 +14,7 @@ des créneaux de pratique loisirs sur la rivière artificielle de Cergy-Pontoise
 
   - Facebook : <https://www.facebook.com/EVPTOUS>
 
-Actualités
+📰 Actualités
 --------------------------------------------------------------------------------
 
   - *Vendredi 29 Octobre 2021*
@@ -38,8 +38,7 @@ Actualités
     (en particulier, le pass sanitaire est nécessaire pour participer).
     
 
-
-# Conditions générales
+⚖️ Conditions générales
 --------------------------------------------------------------------------------
 
 Nos créneaux sont ouverts à tous ceux qui aiment naviguer, dès lors que vous 
@@ -58,7 +57,7 @@ Les conditions pour participer à ses créneaux sont :
 
   - **Payer à l'issue du créneau** (rendez-vous sur le parking P3).
 
-### Tarifs
+### 💶 Tarifs
 
 |                              | Prix par personne                         |
 | ---------------------------- | ----------------------------------------- |
@@ -68,7 +67,7 @@ Les conditions pour participer à ses créneaux sont :
 
 Ce tarif inclut l’accès à la base de Cergy. 
 
-### Pratique Loisirs & Sécurité
+### 🪖 Loisirs & Sécurité
 
 Pour que les sessions se déroulent dans la bonne humeur (et sans bobo 🤕)
 malgré la multiplicités des pratiques :
@@ -81,7 +80,7 @@ malgré la multiplicités des pratiques :
 
   - Les pratiquants non autonomes devront être encadrés.
 
-### Accès
+### 📍 Accès
 
 Pour accéder à la rivière artificielle :
 
@@ -108,7 +107,7 @@ Pour accéder à la rivière artificielle :
 
 ### 😷 Covid-19
 
-⚠️ **Un pass sanitaire est nécessaire pour participer aux sessions EVPT**
+⚠️ **Un pass sanitaire est nécessaire pour les sessions EVPT**
 
 Il devra être présenté lors de l'accès à la rivière artificielle
 (et non à l'entrée de l'île de loisirs ou sur le parking P3).
