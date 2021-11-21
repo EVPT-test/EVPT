@@ -17,7 +17,7 @@ tous sur la rivière artificielle de Cergy-Pontoise.
 Actualités
 --------------------------------------------------------------------------------
 
-  - 📅 *Vendredi 29 Octobre 2021*
+  - *Vendredi 29 Octobre 2021*
 
     Bonjour,
 
@@ -42,30 +42,38 @@ Actualités
 # Conditions générales
 --------------------------------------------------------------------------------
 
-Nos créneaux sont ouverts à tous ceux qui aiment naviguer, dès lors que vous êtes 
-autonome ou bien encadré.
+Nos créneaux sont ouverts à tous ceux qui aiment naviguer, dès lors que vous 
+êtes autonome ou bien encadré. Les différents types d'embarcations (creeker, 
+freestyle, slalom, open canoë, etc.) sont les bienvenus ! 
 
 Les conditions pour participer à ses créneaux sont : 
 
-  - Etre licencié FFCK ou pour les non licenciés, prendre un pass tempo auprès 
-    d'un membre de EVPT le jour même,
+  - Etre licencié FFCK 
+    (ou, à défaut, prendre une Carte FFCK « 1 jour » auprès d'un membre 
+    de l'EVPT le jour même),
 
-   - S'inscrire individuellement à l'aide ce formulaire. 
-     Vous recevrez une confirmation par email,
+  - S'inscrire au préalable au moyen du formulaire en ligne.
 
-   - se présenter le jour même pour payer sa participation au créneau.
+    (Les personnes non inscrites au préalable pourront se voir refuser 
+    l'accès à la rivière. )
 
-Les personnes non inscrites au créneau pourront se voir refuser l'accès à la  rivière. 
+  - Payer à l'issue du créneau (rendez-vous sur le parking P3).
 
 ### Tarifs
 
-Tarif des créneaux par participant  est  :
-5 euros  de L’heure pour le 2 pompes 
-7 euros de L’heure  pour le 3 pompes
-Pass tempo: + 2 euros pour la session
+|                              | Prix par personne                         |
+| ---------------------------- | ----------------------------------------- |
+| 🌊🌊 1h créneau 2 pompes     | 💶 5 €                                    |
+| 🌊🌊🌊 1h créneau 3 pompes   | 💶 7 €                                    |
+| Non-licencié FFCK            | 💶 +2 € (Carte FFCK « 1 jour »)           |
+
 Ce tarif inclut l’accès à la base de Cergy. 
 
-Bien que nous acceptons différents types d’embarcations, notre pratique n'est pas 'Slalom', nous ne montons pas de portes.
+### Pratique & Sécurité
+
+  - ⚠️ Nous ne mettons pas en place de portes sur le parcours.
+
+  - 
 
 ### Accès
 
@@ -92,14 +100,12 @@ Pour accéder à la rivière artificielle :
     pourrez stationner. Puis embarquez sur l'étang de la folie et traversez vers
     [la rivière artificielle📍](https://goo.gl/maps/kxDHpmThyGNV8AQd7).
 
-
-
 ### 😷 Covid-19
 
 ⚠️ **Un pass sanitaire est nécessaire pour participer aux sessions EVPT**
 
 Il devra être présenté lors de l'accès à la rivière artificielle
-(et non sur le parking ou à l'entrée de l'île de loisirs).
+(et non à l'entrée de l'île de loisirs ou sur le parking P3).
 
 Plus de détails ici: <https://cergy-pontoise.iledeloisirs.fr/covid-19/>
 
