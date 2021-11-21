@@ -16,25 +16,25 @@ des créneaux de pratique loisirs sur la rivière artificielle de Cergy-Pontoise
 📰 Actualités
 --------------------------------------------------------------------------------
 
-  - *Vendredi 29 Octobre 2021*
+### Vendredi 29 Octobre 2021
 
-    Bonjour,
+Bonjour,
 
-    Si vous avez la pagaie qui vous démange, EVPT vous propose de se retrouver 
-    pour la dernière de la saison ! 
-    
+Si vous avez la pagaie qui vous démange, EVPT vous propose de se retrouver 
+pour la dernière de la saison ! 
 
-    | 📅 Dimanche 07 novembre 2021 | Volume d'eau                              |
-    | ---------------------------- | ----------------------------------------- |
-    | 🕐 11h-12h                   | 🌊🌊 2 pompes                             |
-    | 🕐 12h-13h                   | 🌊🌊🌊 3 pompes                           |
 
-    Inscription:
+| 📅 Dimanche 07 novembre 2021 | Volume d'eau                              |
+| ---------------------------- | ----------------------------------------- |
+| 🕐 11h-12h                   | 🌊🌊 2 pompes                             |
+| 🕐 12h-13h                   | 🌊🌊🌊 3 pompes                           |
 
-    📝 [Formulaire inscription EVPT 07-11-2021](https://docs.google.com/forms/d/e/1FAIpQLScwOe-cKrpR2wKV_Ga_XzVvaTRI-TSNRrZYFiQvJ2fFs3-6vg/viewform)
+Inscription:
 
-    Reportez-vous aux [conditions générales](#conditions-générales) pour plus de détails 
-    (en particulier, le pass sanitaire est nécessaire pour participer).
+📝 [Formulaire inscription EVPT 07-11-2021](https://docs.google.com/forms/d/e/1FAIpQLScwOe-cKrpR2wKV_Ga_XzVvaTRI-TSNRrZYFiQvJ2fFs3-6vg/viewform)
+
+Reportez-vous aux [conditions générales](#conditions-générales) pour plus de détails 
+(en particulier, le pass sanitaire est nécessaire pour participer).
     
 
 ⚖️ Conditions générales
