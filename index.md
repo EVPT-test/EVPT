@@ -10,7 +10,7 @@ L'EVPT est une section associée au club de Canoë-Kayak de la
 [MJC de Sartrouville](#mjc-sartrouville). Elle propose des créneaux ouverts à 
 tous sur la rivière artificielle de Cergy-Pontoise.
 
-  - E-mail : 📧 [`evpt@mjcsartrouville.asso.fr`](mailto:evpt@mjcsartrouville.asso.fr)
+  - E-mail : 📧 [evpt@mjcsartrouville.asso.fr](mailto:evpt@mjcsartrouville.asso.fr)
 
   - Facebook : <https://www.facebook.com/EVPTOUS>
 
@@ -71,9 +71,14 @@ Ce tarif inclut l’accès à la base de Cergy.
 
 ### Pratique & Sécurité
 
-  - ⚠️ Nous ne mettons pas en place de portes sur le parcours.
+  - Pour favoriser une pratique loisirs de l'eau vive, nous ne mettons pas en 
+    place de portes de slalom sur le parcours.
 
-  - 
+  - Le praticant déjà engagé dans une action est toujours prioritaire ; 
+    dans le doute, arrêtez-vous pour évitez les collisions et communiquez !
+
+
+  - Les praticants non autonomes () devront venir accompagnés et encadrés.
 
 ### Accès
 
