@@ -30,9 +30,7 @@ pour la dernière de la saison !
 | 🕐 11h-12h                   | 🌊🌊 2 pompes                             |
 | 🕐 12h-13h                   | 🌊🌊🌊 3 pompes                           |
 
-Inscription:
-
-📝 [Formulaire inscription EVPT 07-11-2021](https://docs.google.com/forms/d/e/1FAIpQLScwOe-cKrpR2wKV_Ga_XzVvaTRI-TSNRrZYFiQvJ2fFs3-6vg/viewform)
+Inscription: 📝 [**Formulaire inscription EVPT 07-11-2021**](https://docs.google.com/forms/d/e/1FAIpQLScwOe-cKrpR2wKV_Ga_XzVvaTRI-TSNRrZYFiQvJ2fFs3-6vg/viewform)
 
 Reportez-vous aux [conditions générales](#conditions-générales) pour plus de détails 
 (en particulier, le pass sanitaire est nécessaire pour participer).
