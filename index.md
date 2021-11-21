@@ -89,14 +89,8 @@ Pour accéder à la rivière artificielle :
     > puis suivre le fléchage « les Étangs de Cergy-Neuville ». 
     > Au bout du boulevard de l’Hautil, suivez  le fléchage jaune « entrée Île de loisirs ».
     >
-    > Coordonnée GPS :
-    >
-    >    Ne pas indiquer la rue des Etangs, elle amène dans un cul-de-sac
-    >    Indiquez Île de loisirs de Cergy sur Waze ou Google maps
-    >
-    >     - Latitude : 49.0217870018582
-    >
-    >     - Longitude : 2.052319049835205
+    > Ne pas indiquer la rue des Etangs, elle amène dans un cul-de-sac
+    > Indiquez "Île de loisirs de Cergy" sur Waze ou Google maps
     >
     > Source: <https://cergy-pontoise.iledeloisirs.fr/venir-a-lile-de-loisirs/>
 
