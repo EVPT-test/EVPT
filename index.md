@@ -17,7 +17,7 @@ de Cergy-Pontoise.
 📰 Actualités
 --------------------------------------------------------------------------------
 
-### Vendredi 29 Octobre 2021
+### 🖊️ 29 Octobre 2021
 
 Bonjour,
 
@@ -37,6 +37,17 @@ Inscription:
 Reportez-vous aux [conditions générales](#conditions-générales) pour plus de détails 
 (en particulier, le pass sanitaire est nécessaire pour participer).
     
+### 🖊️ ...
+
+### 🖊️ ...
+
+### 📅 Calendrier 2020-2021
+
+| 📅 Date                   | 🕐 Heures | 🌊 Volume d'eau                      |
+| ------------------------- | --------- | ------------------------------------ |
+| Dimanche 07 novembre 2021 | 11h-13h   | 2 pompes puis 3 pompes               |
+|                       ??? | 11h-13h   | 2 pompes puis 3 pompes               |
+|                       ??? | 11h-13h   | 2 pompes puis 3 pompes               |
 
 ⚖️ Conditions générales
 --------------------------------------------------------------------------------
