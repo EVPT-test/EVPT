@@ -2,13 +2,13 @@
 title: Eaux Vives Pour Tous 
 ---
 
-ℹ️ EVPT est une section liée au club de Canoë-Kayak de [MJC de Sartrouville](#mjc-sartrouville),
-qui propose des créneaux ouverts à tous sur la rivière artificielle à Cergy (95).
 
-<https://goo.gl/maps/v9w4PAZAUJnWWkSY8>
+--------------------------------------------------------------------------------
 
-
-  - 📍 [Rivière artificielle de Cergy](https://goo.gl/maps/v9w4PAZAUJnWWkSY8)
+ℹ️ **A propos.** EVPT est une section liée au club de Canoë-Kayak de 
+[MJC de Sartrouville](#mjc-sartrouville) qui propose des créneaux ouverts à tous 
+sur la 📍 [Rivière artificielle de Cergy](https://goo.gl/maps/v9w4PAZAUJnWWkSY8) 
+(Val d'Oise).
 
   - 📧 [`evpt@mjcsartrouville.asso.fr`](mailto:evpt@mjcsartrouville.asso.fr)
 
