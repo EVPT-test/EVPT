@@ -90,9 +90,9 @@ Pour accéder à la rivière artificielle :
     >    Ne pas indiquer la rue des Etangs, elle amène dans un cul-de-sac
     >    Indiquez Île de loisirs de Cergy sur Waze ou Google maps
     >
-    >      - Latitude : 49.0217870018582
+    >     - Latitude : 49.0217870018582
     >
-    >      - Longitude : 2.052319049835205
+    >     - Longitude : 2.052319049835205
     >
     > Source: <https://cergy-pontoise.iledeloisirs.fr/venir-a-lile-de-loisirs/>
 
