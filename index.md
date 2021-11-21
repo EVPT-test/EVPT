@@ -70,6 +70,8 @@ Les conditions pour participer à ses créneaux sont :
 
 ### 💶 Tarifs
 
+La participation au créneau est calculée comme suit :
+
 |                              | Prix par personne                         |
 | ---------------------------- | ----------------------------------------- |
 | 🌊🌊 1h créneau 2 pompes     | 💶 5 €                                    |
