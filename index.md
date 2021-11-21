@@ -48,16 +48,15 @@ freestyle, slalom, open canoë, etc.) sont les bienvenus !
 
 Les conditions pour participer à ses créneaux sont : 
 
-  - Etre licencié FFCK 
+  - **Etre licencié FFCK** 
     (ou, à défaut, prendre une Carte FFCK « 1 jour » auprès d'un membre 
     de l'EVPT le jour même),
 
-  - S'inscrire au préalable au moyen du formulaire en ligne.
-
+  - **S'inscrire au préalable** au moyen du formulaire en ligne.
     (Les personnes non inscrites au préalable pourront se voir refuser 
     l'accès à la rivière. )
 
-  - Payer à l'issue du créneau (rendez-vous sur le parking P3).
+  - **Payer à l'issue du créneau** (rendez-vous sur le parking P3).
 
 ### Tarifs
 
